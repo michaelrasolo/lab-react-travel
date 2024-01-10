@@ -1,0 +1,35 @@
+.TravelList{
+    display: flex;
+    flex-direction: row;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    padding: 1rem;
+    width: 50vw;
+    height: 35vh;
+    min-width: 600px;
+    margin-bottom: 1rem;
+}
+
+.placeImage{
+    /* width: 20vw; */
+    height: 100%;
+    aspect-ratio: 4/3;
+}
+
+.placeData{
+    text-align: left;
+    padding: 0 1rem;
+    width: max-content;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
+
+p, h1, h2{
+    margin: 0
+}
+.placeLabels{
+    display: flex;
+    gap: 6px;
+}

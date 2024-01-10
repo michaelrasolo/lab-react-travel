@@ -1,0 +1,13 @@
+.Label{
+    padding: 4px 8px;
+    background-color: #366bca;
+    color: white;
+    width: fit-content;
+    border-radius: 4px;
+    line-height: 1rem;
+    
+}
+.greatDeal{
+    color: white;
+    background-color: green;
+}
